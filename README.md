@@ -13,4 +13,7 @@ nps create-react-app cra-react-app
 ```
 npm create vite@latest
 
+cd vite-react-app
+npm install 
+npm run dev
 ```
