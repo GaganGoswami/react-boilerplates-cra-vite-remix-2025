@@ -17,3 +17,10 @@ cd vite-react-app
 npm install 
 npm run dev
 ```
+
+## Next.js
+
+```
+npx create-next-app@latest
+npm run dev
+```
