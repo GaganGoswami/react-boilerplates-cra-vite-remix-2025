@@ -29,5 +29,5 @@ npm run dev
 
 ```
 npx create-remix@latest
-
+run run dev
 ```
