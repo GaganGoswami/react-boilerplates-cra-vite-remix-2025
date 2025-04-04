@@ -24,3 +24,10 @@ npm run dev
 npx create-next-app@latest
 npm run dev
 ```
+
+## Remix 
+
+```
+npx create-remix@latest
+
+```
